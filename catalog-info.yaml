@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "new-23"
+  description: "new-23"
+  annotations:
+    github.com/project-slug: jobinsraj-poc/new-23
+    backstage.io/techdocs-ref: url:https://github.com/jobinsraj-poc/new-23
+spec:
+  type: Reference Architecture
+  lifecycle: experimental
+  owner: "jobinsraj-poc"
